@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/starwars-apollo-express-app/static/css/main.c308e15e.chunk.css",
+    "main.js": "/starwars-apollo-express-app/static/js/main.56b389f4.chunk.js",
+    "main.js.map": "/starwars-apollo-express-app/static/js/main.56b389f4.chunk.js.map",
+    "runtime-main.js": "/starwars-apollo-express-app/static/js/runtime-main.3380cfc0.js",
+    "runtime-main.js.map": "/starwars-apollo-express-app/static/js/runtime-main.3380cfc0.js.map",
+    "static/js/2.087ecb28.chunk.js": "/starwars-apollo-express-app/static/js/2.087ecb28.chunk.js",
+    "static/js/2.087ecb28.chunk.js.map": "/starwars-apollo-express-app/static/js/2.087ecb28.chunk.js.map",
+    "static/js/3.07914ae8.chunk.js": "/starwars-apollo-express-app/static/js/3.07914ae8.chunk.js",
+    "static/js/3.07914ae8.chunk.js.map": "/starwars-apollo-express-app/static/js/3.07914ae8.chunk.js.map",
+    "index.html": "/starwars-apollo-express-app/index.html",
+    "static/css/main.c308e15e.chunk.css.map": "/starwars-apollo-express-app/static/css/main.c308e15e.chunk.css.map",
+    "static/js/2.087ecb28.chunk.js.LICENSE.txt": "/starwars-apollo-express-app/static/js/2.087ecb28.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/starwars-apollo-express-app/static/media/Starjedi.760bc933.woff",
+    "static/media/index.css": "/starwars-apollo-express-app/static/media/deathstar.a1939d81.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3380cfc0.js",
+    "static/js/2.087ecb28.chunk.js",
+    "static/css/main.c308e15e.chunk.css",
+    "static/js/main.56b389f4.chunk.js"
+  ]
+}
