@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mwviljoen.github.io/starwars-apollo-app/",
+  "homepage": "https://mwviljoen.github.io/starwars-apollo-express-app",
   "dependencies": {
     "@apollo/client": "^3.4.15",
     "@testing-library/jest-dom": "^5.14.1",
