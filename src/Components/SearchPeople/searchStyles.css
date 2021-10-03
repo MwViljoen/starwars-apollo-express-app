@@ -1,0 +1,16 @@
+.input-styles{
+    width: 300px;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid yellow;
+    background-color: rgba(255,255,255, 0.1);
+    color: white;
+    border-radius: 10px;
+    font-family: "Franklin Gothic Medium", monospace;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}

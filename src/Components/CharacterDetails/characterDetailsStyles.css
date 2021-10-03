@@ -1,0 +1,18 @@
+.character-detail-container{
+    margin: 1vw;
+    padding: 2vw;
+    flex-basis: 14%;
+    background-color: rgba(255,255,255,0.1);
+    cursor: pointer;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+}
+
+.character-detail{
+    margin: 10px;
+}
+
+ul{
+    list-style-type: none;
+}

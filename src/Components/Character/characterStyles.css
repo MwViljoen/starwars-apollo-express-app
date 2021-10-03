@@ -1,0 +1,27 @@
+.character-container{
+    margin: 1vw;
+    padding: 2vw;
+    flex-basis: 14%;
+    text-align: center;
+    background-color: rgba(255,255,255,0.1);
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.character-container>p{
+    margin: 1.5vw;
+}
+
+.character-container:hover{
+    transform: scale(1.05);
+    transition: 500ms;
+    box-shadow: 1px 1px 5px yellow;
+}
+
+@media only screen and (max-width: 800px) {
+    .character-container {
+        padding: 2vw;
+        flex-basis: 30%;
+        text-align: center;
+    }
+}

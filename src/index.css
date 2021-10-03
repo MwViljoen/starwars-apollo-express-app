@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  /*background-image: linear-gradient(30deg, red, purple, blue, lawngreen);*/
+  background-image: url("resources/deathstar.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  font-family: "Franklin Gothic Medium", monospace;
+}
+
+a{
+  text-decoration: none;
+  text-decoration-color: white;
+  color: white;
+  text-underline: none;
+
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.text-center{
+  text-align: center;
+}
